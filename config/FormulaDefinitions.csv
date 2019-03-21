@@ -1,3 +1,0 @@
-Formula1,power = pct * (Kenpom/35) * (BPI) * (1/(30+RPI))
-Formula2,power = pct* (Kenpom/35) * (BP/25I) + (1/(30+RPI))
-Formula3,power = (Kenpom/35) * (BPI) * (1/(30+RPI))
